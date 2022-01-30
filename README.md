@@ -10,3 +10,9 @@ The 3 EOA addresses will receive the funds in the following ratios:-
 2) 20%
 3) 70%
 
+From Openzepplin, Payment Splitter is inheritted and enhanced with the following functions:-
+
+1) Vault balances for native and ERC20 token
+2) One function call to release all the tokens to respective owners
+
+## Please remember to change the Deployment Private Key!!!!
